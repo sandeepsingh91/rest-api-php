@@ -78,8 +78,6 @@ To run this project, ensure you have the following installed:
     ```
     Replace `localhost:8000` with your server address and port.
 
-[Add more endpoints as per your API design.]
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please follow these steps:
