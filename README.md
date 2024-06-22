@@ -12,7 +12,6 @@ This repository contains a simple PHP REST API implementation using `Rest.php`, 
 - [Contributing](#contributing)
 - [License](#license)
 
-
 ## Features
 
 - **RESTful Handling**: Utilizes `Rest.php` for managing HTTP methods (GET, POST, PUT, DELETE).
